@@ -2,15 +2,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:071527,70:0E7490,100:38BDF8&text=nomorehomies&fontColor=E0F2FE&fontSize=58&fontAlignY=36&desc=OSINT%20%2F%2F%20DFIR%20%2F%2F%20Cyber%20Investigation%20Lab&descSize=18&descAlignY=58&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=Tracing+signals+through+noise;OSINT+%2B+Digital+Forensics+%2B+CTF;Evidence-first+cyber+notes;Dark-blue+lab+online" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=Tracing+signals+through+noise;OSINT+%2B+Digital+Forensics;Evidence-first+cyber+notes;Dark-blue+lab+online" alt="Typing SVG" />
 
 <br />
 
 <img src="https://img.shields.io/badge/OSINT-38BDF8?style=for-the-badge&labelColor=020617&color=0EA5E9" />
 <img src="https://img.shields.io/badge/DFIR-67E8F9?style=for-the-badge&labelColor=020617&color=0891B2" />
 <img src="https://img.shields.io/badge/Forensics-22D3EE?style=for-the-badge&labelColor=020617&color=0369A1" />
-<img src="https://img.shields.io/badge/Threat_Intel-A5F3FC?style=for-the-badge&labelColor=020617&color=155E75" />
-<img src="https://img.shields.io/badge/CTF_Lab-BAE6FD?style=for-the-badge&labelColor=020617&color=075985" />
 
 </div>
 
@@ -23,7 +21,7 @@ nomorehomies@deep-blue-lab:~$ whoami
 [+] Cybersecurity student
 [+] OSINT investigator
 [+] Digital forensics learner
-[+] CTF writeup builder
+[+] Case writeup builder
 [+] Evidence-first mindset
 [+] Notes, scripts, timelines, and reproducible reports
 ```
@@ -39,7 +37,7 @@ The goal is simple: collect traces, verify evidence, build a timeline, and write
 | --- | --- | --- |
 | OSINT | usernames, domains, public traces, metadata, blockchain pivots | pivot maps, source notes, trace summaries |
 | DFIR | memory dumps, browser artifacts, Android traces, file carving | timelines, extracted indicators, recovery notes |
-| CTF | Root-Me style forensics, crypto, recon and investigation tasks | writeups, commands, final hash/flag proof |
+| Casework | forensic-style challenges, recon notes, investigation tasks | writeups, commands, evidence proof |
 | Automation | Python/Bash parsers for repetitive triage | scripts, checklists, helper tools |
 
 ---
@@ -67,7 +65,7 @@ The goal is simple: collect traces, verify evidence, build a timeline, and write
 ```txt
 01_osint-notes/       username pivots, domain recon, public-source traces
 02_forensics-lab/    memory, disk, browser, Android, metadata
-03_ctf-writeups/     Root-Me, forensic triage, crypto notes
+03_case-writeups/    Root-Me, forensic triage, investigation notes
 04_ioc-timelines/    hashes, URLs, addresses, indicators, event order
 05_tools/            parsers, hashing helpers, carving and triage scripts
 ```
@@ -77,7 +75,7 @@ The goal is simple: collect traces, verify evidence, build a timeline, and write
 ### Current Missions
 
 ```txt
-[RUNNING] Build cleaner Root-Me forensic writeups
+[RUNNING] Build cleaner forensic case writeups
 [RUNNING] Practice Volatility 3 memory triage
 [RUNNING] Improve OSINT pivot workflow
 [RUNNING] Write small Python tools for evidence parsing
