@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:071527,70:0E7490,100:38BDF8&text=nomorehomies&fontColor=E0F2FE&fontSize=58&fontAlignY=36&desc=OSINT%20%2F%2F%20DFIR%20%2F%2F%20Cyber%20Investigation%20Lab&descSize=18&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="./assets/nomorehomies-background.svg" alt="nomorehomies OSINT DFIR cyber banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=Tracing+signals+through+noise;OSINT+%2B+Digital+Forensics;Evidence-first+cyber+notes;Dark-blue+lab+online" alt="Typing SVG" />
 
