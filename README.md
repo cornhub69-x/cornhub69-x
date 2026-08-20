@@ -1,24 +1,118 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:F7E8F4,45:EADFFF,100:D8D1FF&text=KY%20NGUYEN&fontColor=2B2033&fontSize=54&fontAlignY=38&desc=OSINT%20%2F%2F%20DIGITAL%20FORENSICS%20%2F%2F%20CYBER%20LAB&descSize=18&descAlignY=58" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:071527,70:0E7490,100:38BDF8&text=nomorehomies&fontColor=E0F2FE&fontSize=58&fontAlignY=36&desc=OSINT%20%2F%2F%20DFIR%20%2F%2F%20Cyber%20Investigation%20Lab&descSize=18&descAlignY=58&animation=fadeIn" />
 
-### OSINT / DFIR / Cyber Lab
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=Tracing+signals+through+noise;OSINT+%2B+Digital+Forensics+%2B+CTF;Evidence-first+cyber+notes;Dark-blue+lab+online" alt="Typing SVG" />
 
-<img src="https://img.shields.io/badge/OSINT-ff4ff3?style=for-the-badge&labelColor=2b2033">
-<img src="https://img.shields.io/badge/Forensics-b254ff?style=for-the-badge&labelColor=2b2033">
-<img src="https://img.shields.io/badge/Threat%20Intel-47c7ff?style=for-the-badge&labelColor=2b2033">
-<img src="https://img.shields.io/badge/CTF%20Lab-89f7c2?style=for-the-badge&labelColor=2b2033">
+<br />
+
+<img src="https://img.shields.io/badge/OSINT-38BDF8?style=for-the-badge&labelColor=020617&color=0EA5E9" />
+<img src="https://img.shields.io/badge/DFIR-67E8F9?style=for-the-badge&labelColor=020617&color=0891B2" />
+<img src="https://img.shields.io/badge/Forensics-22D3EE?style=for-the-badge&labelColor=020617&color=0369A1" />
+<img src="https://img.shields.io/badge/Threat_Intel-A5F3FC?style=for-the-badge&labelColor=020617&color=155E75" />
+<img src="https://img.shields.io/badge/CTF_Lab-BAE6FD?style=for-the-badge&labelColor=020617&color=075985" />
 
 </div>
 
 ---
 
-### ~/whoami
+### ~/identity
 
 ```txt
-ky@lavender-cyber:~$ whoami
+nomorehomies@deep-blue-lab:~$ whoami
 [+] Cybersecurity student
 [+] OSINT investigator
 [+] Digital forensics learner
 [+] CTF writeup builder
 [+] Evidence-first mindset
+[+] Notes, scripts, timelines, and reproducible reports
+```
+
+I build investigation notes and small tools around **OSINT**, **digital forensics**, and cyber challenge workflows.  
+The goal is simple: collect traces, verify evidence, build a timeline, and write conclusions that can be reproduced.
+
+---
+
+### Active Focus
+
+| Zone | What I Work On | Output |
+| --- | --- | --- |
+| OSINT | usernames, domains, public traces, metadata, blockchain pivots | pivot maps, source notes, trace summaries |
+| DFIR | memory dumps, browser artifacts, Android traces, file carving | timelines, extracted indicators, recovery notes |
+| CTF | Root-Me style forensics, crypto, recon and investigation tasks | writeups, commands, final hash/flag proof |
+| Automation | Python/Bash parsers for repetitive triage | scripts, checklists, helper tools |
+
+---
+
+### Toolbelt
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,bash,c,java,linux,git,github,vscode&theme=dark" />
+
+</div>
+
+| Track | Tools / Methods |
+| --- | --- |
+| Recon | Nmap, ffuf, nuclei, DNS pivots, GitHub dorking |
+| OSINT | Sherlock, SpiderFoot, theHarvester, Google dorking, archive checks |
+| Forensics | Volatility 3, Autopsy, FTK Imager, binwalk, exiftool, strings |
+| Network | Wireshark, tshark, PCAP reconstruction, traffic timelines |
+| Reporting | Markdown notes, evidence tables, reproducible command logs |
+
+---
+
+### Lab Structure
+
+```txt
+01_osint-notes/       username pivots, domain recon, public-source traces
+02_forensics-lab/    memory, disk, browser, Android, metadata
+03_ctf-writeups/     Root-Me, forensic triage, crypto notes
+04_ioc-timelines/    hashes, URLs, addresses, indicators, event order
+05_tools/            parsers, hashing helpers, carving and triage scripts
+```
+
+---
+
+### Current Missions
+
+```txt
+[RUNNING] Build cleaner Root-Me forensic writeups
+[RUNNING] Practice Volatility 3 memory triage
+[RUNNING] Improve OSINT pivot workflow
+[RUNNING] Write small Python tools for evidence parsing
+[QUEUED ] Turn messy traces into clean case reports
+```
+
+---
+
+### GitHub Signals
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=cornhub69-x&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=67E8F9&text_color=E0F2FE&bg_color=020617" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cornhub69-x&layout=compact&hide_border=true&title_color=38BDF8&text_color=E0F2FE&bg_color=020617" />
+
+<br />
+
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=cornhub69-x&bg_color=020617&color=E0F2FE&line=38BDF8&point=67E8F9&area=true&hide_border=true" />
+
+</div>
+
+---
+
+### Case Motto
+
+```txt
+signal over noise
+evidence over guesswork
+timeline before conclusion
+```
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:020617,50:38BDF8,100:020617" />
+
+<sub>deep blue signal // cyan trace // verified evidence</sub>
+
+</div>
